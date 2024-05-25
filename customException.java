@@ -13,6 +13,7 @@ public class customException {
 
     if(j==0)
     throw new AnjalException("Cant print 0 as output"); //as the value of j comes 0 it throws custom error
+    
    }catch(AnjalException e){ //this code catches the error that is custom defined above
     j=18;
     System.out.println("That is the default output " + e);

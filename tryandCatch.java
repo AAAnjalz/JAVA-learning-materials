@@ -7,8 +7,8 @@ int nums[] =  new int[5];
 String name = null;
 
 
-try{
-    j =  i/2; //This will give infinite value which is an error
+try{ 
+    j =  i/0; //This will give infinite value which is an error
     System.out.println(nums[1]);
     // System.out.println(nums[5]);//throws error
     System.out.println(name.length());//throws error

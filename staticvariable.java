@@ -13,6 +13,7 @@ class Mobile{
       name="Phone";
       System.out.println("Printed in static block");
    }
+   
    public static void show1(Mobile mob1){
       System.out.println(name + ": " + mob1.price);
    }
