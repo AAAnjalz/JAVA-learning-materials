@@ -14,7 +14,7 @@ public class comparatorString {
         List<String> name = new ArrayList<>();
         name.add("Anjal");
         name.add("Dnjalad");
-        name.add("Snjala");
+        name.add("Snjalaaaaaaaaaa");
         name.add("Bnjalasdasq");
 
         Collections.sort(name, com);

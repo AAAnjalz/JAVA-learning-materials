@@ -21,7 +21,7 @@ for(int i=0;i<nums.length;i++){
     }
     
 } 
-//This loop iterated through each array and assigns value
+//This loop is iterated through each array and assigns value
 
 for(int n[]: nums){
 for(int m:n){

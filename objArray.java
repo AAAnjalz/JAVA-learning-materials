@@ -28,6 +28,12 @@ public class objArray {
             System.out.println(stud.name + ":" + stud.marks);
         }
 
+    //    for(int i=0;i<student.length;i++){
+    //     System.out.println(s1.name + s1.marks);
+    //    }
+       
+        
+
 
         
    

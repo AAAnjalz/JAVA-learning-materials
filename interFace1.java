@@ -29,11 +29,11 @@ public void show1(){
 
 public class interFace1 {
     public static void main(String args[]){
-A obj = new B();
+A obj = new B(); //B can be called instead to A
 obj.show();
 obj.config();
 
-X obj1 = new B();
+X obj1 = new B(); //B can be called instead to X
 obj1.show1();
 
     }

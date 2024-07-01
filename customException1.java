@@ -6,7 +6,7 @@ super(string);
 
 public class customException1 {
     public static void main(String[] args){
-        int i=18;
+        int i=0;
         int j = 0;
         try{
             j=18/i;

@@ -9,7 +9,7 @@ class A{
   }
 }
 class B extends A{
-    @Override // THis annotation defines that we want to over ride a method and it shows an error is the method is not over ridden.
+    @Override // THis annotation defines that we want to over ride a method and it shows an error if the method is not over ridden.
     public void show(){
         System.out.println("Show 2");
       }
